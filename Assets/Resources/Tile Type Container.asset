@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e575440c2c06bb3439d14753de80fe6f, type: 3}
+  m_Name: Tile Type Container
+  m_EditorClassIdentifier: 
+  typeAssets:
+  - {fileID: 11400000, guid: 8ac1ff89c51a11c498b0349a1ffeb0c2, type: 2}
+  - {fileID: 11400000, guid: 9d5e66978d8024740a5d70bced9858cc, type: 2}
+  - {fileID: 11400000, guid: a225d6a373e93b944b8e916262c31bf5, type: 2}
+  - {fileID: 11400000, guid: eb2055babc053e34a98781dc6f75cd5a, type: 2}
+  - {fileID: 11400000, guid: 37722a49d347b6149a81b451b5c40891, type: 2}
+  - {fileID: 11400000, guid: 215d704e590ed424a8e8c69bbe42e2f0, type: 2}
+  - {fileID: 11400000, guid: 34c57f6e107b2d543ae1d3e0b3d75bf1, type: 2}
+  - {fileID: 11400000, guid: 213db119e8f276f4f8bb6dd5dabe69bb, type: 2}
